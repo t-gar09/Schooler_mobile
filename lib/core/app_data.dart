@@ -218,11 +218,11 @@ class AppData {
   static List<RecommendedProduct> recommendedProducts = [
     RecommendedProduct(
       imagePath: "",
-      cardBackgroundColor: Color.fromARGB(255, 105, 75, 136),
+      cardBackgroundColor: Color.fromARGB(255, 48, 87, 246),
     ),
     RecommendedProduct(
       imagePath: "",
-      cardBackgroundColor: const Color(0xFF3081E1),
+      cardBackgroundColor: Color.fromARGB(255, 80, 146, 227),
       buttonBackgroundColor: const Color(0xFF9C46FF),
       buttonTextColor: Colors.white,
     ),
